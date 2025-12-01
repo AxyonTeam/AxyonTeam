@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey there! <img src="assets\gifs\blob-wave.gif" width="25"/>
 
-<!--
-**AxyonTeam/AxyonTeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мы [**AxyonTeam**](AxyonTeam), из Восточной Европы.
 
-Here are some ideas to get you started:
+Мы создаем игры, программы и сайты, делая повседневное использование ПК проще и удобнее от полезных утилит до игровых лаунчеров и сайтов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Мой стек: C#, Python, C++, JavaScript, HTML, CSS и Unity.
+
+#### Мои соцсети:
+
+[![GitHub]( https://img.shields.io/badge/any_text-you_like-blue)](https://github.com/your_username)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your_id)
